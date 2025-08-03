@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5e088f4.css",
+    "main.js": "/static/js/main.91f3c931.js",
+    "static/js/453.92ec413f.chunk.js": "/static/js/453.92ec413f.chunk.js",
+    "static/media/giftbox.png": "/static/media/giftbox.6f2c503e30f7d64f6c1d.png",
+    "static/media/avt-7.jpg": "/static/media/avt-7.35d382c1ed0630df3edd.jpg",
+    "static/media/avt-4.jpg": "/static/media/avt-4.86e2b54deedcd5ae7242.jpg",
+    "static/media/avt-1.jpg": "/static/media/avt-1.2b688a4b6015a5162df6.jpg",
+    "static/media/avt-3.jpg": "/static/media/avt-3.38b206effbfd0f56a357.jpg",
+    "static/media/avt-5.jpg": "/static/media/avt-5.8340e9a88eda8099cf42.jpg",
+    "static/media/avt-6.jpg": "/static/media/avt-6.9e0c92162ccd2a52056a.jpg",
+    "static/media/avt-2.jpg": "/static/media/avt-2.1b44da126dbd96d34d37.jpg",
+    "static/media/avt-8.jpg": "/static/media/avt-8.d11a447d58e8c1698e42.jpg",
+    "index.html": "/index.html",
+    "main.d5e088f4.css.map": "/static/css/main.d5e088f4.css.map",
+    "main.91f3c931.js.map": "/static/js/main.91f3c931.js.map",
+    "453.92ec413f.chunk.js.map": "/static/js/453.92ec413f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e088f4.css",
+    "static/js/main.91f3c931.js"
+  ]
+}
